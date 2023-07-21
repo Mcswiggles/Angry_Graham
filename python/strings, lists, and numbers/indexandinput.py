@@ -21,5 +21,5 @@ print('please enter your first name')
 first=input()
 print("please enter your last name")
 last=input()
-username=first[0]+last[:5]
-print('your username is ',username)
+
+print('your username is {username}'.format(username=first[0]+last[:6]))
