@@ -1,5 +1,5 @@
 # Lists in python
-'''
+
 mylist=[1,2,3]
 print(mylist)
 print(type(mylist))
@@ -9,7 +9,6 @@ print(mylist)
 
 mylist=['string',100,23.2]
 print(len(mylist))
-'''
 
 mylist=['one','two','three']
 print(mylist[0])
