@@ -41,4 +41,3 @@ print(list3)
 list4 = [5,3,2,4,6,1]
 list4.sort()
 print(list4)
-
